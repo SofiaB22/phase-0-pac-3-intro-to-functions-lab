@@ -18,6 +18,7 @@ function logWhisper(string) {
   console.log('HELLO'.toLowerCase());
 }
 
-function sayHiToHeadphonedRomate(string) {
-console.log('hello'.toLowerCase()) 
-}
+function sayHiToHeadphonedRoomate (string) {
+    return ("I can't hear you!");
+  }
+
